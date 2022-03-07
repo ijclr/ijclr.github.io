@@ -1,5 +1,5 @@
 
-<img src="http://lr2020.iit.demokritos.gr/events/nesy_tr_clear_hu8fb9286c03c300be5772493168fb7fee_3375_300x300_fill_box_smart1_2.png" width="60" alt="NeSy"> 
+<img src="pictures/nesy2.png" width="160" alt="NeSy"> 
 
 
 The 2nd International Joint Conference on Learning & Reasoning (IJCLR) will be held in Cumberland Lodge, Windsor Great Park, United Kingdom, 28-30 September 2022.
