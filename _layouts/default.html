@@ -26,9 +26,12 @@
         <h1>{{ site.title | default: page.title | default: site.github.repository_name }}</h1>
         <!--<h1>2nd International Joint Conference on Learning & Reasoning</h1>-->
         <!--<p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>-->
+        <ul>
+          <li class="myrow"><a class="link" href="https://ijclr.github.io/2022/">IJCLR 2022</a></li>          
+          <li class="myrow"><a class="link" href="http://lr2020.iit.demokritos.gr/">IJCLR 2021</a></li>        
+        </ul>        
       </header>
-    
-    <br>
+        
     <br>
 
     <div class="wrapper">
@@ -46,6 +49,26 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
       </footer>-->
     </div>    
+    
+    
+    <style>
+      li.myrow {
+        display:inline-block;
+        width: auto;
+        color: #fff;
+        padding: 5px;
+        background: black;
+      }
+      .link {
+        color: #fff;
+        font-size: 18px;
+      }
+      .link:hover {
+        color: yellow;
+        font-size: 18px;
+      }
+      
+    </style>
     
   </body>
 </html>
