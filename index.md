@@ -1,6 +1,6 @@
 ## Events
 
-- IJCLR 2022: [Web](https://ijclr.github.io/2022/)
+- IJCLR 2022: [Web](https://ijclr22.doc.ic.ac.uk/)
 - IJCLR 2021: [Web](http://lr2020.iit.demokritos.gr/), [Video recordings](https://www.youtube.com/playlist?list=PL18_rB75vx1PkjXnkX1jiqNeNnVCbNGIh), ILP Proceedings, [NeSy Proceedings](http://ceur-ws.org/Vol-2986/), StarAI Proceedings, AAIP Proceedings
 
 
